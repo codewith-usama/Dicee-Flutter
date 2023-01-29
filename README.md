@@ -3,8 +3,7 @@
 A new Flutter project.
 
 # Demo
-
-https://user-images.githubusercontent.com/99090844/215286370-beefe36b-19df-430d-b6cf-925d10e5d009.mp4
+![dicee-demo](https://user-images.githubusercontent.com/99090844/215349798-40baa8f7-caf2-4fa9-8942-5248db194f3b.gif)
 
 
 ## Getting Started
